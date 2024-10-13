@@ -11,6 +11,6 @@ You will have hands-on experience building a serverless application using AWS La
 Additionally, you will have experience working with AWS services and integrating them to build a complete solution.
 
 
-Project Architecture
+Project Architecture:
 
-![Uploading Screenshot 2024-10-13 191633.png…]()
+![Screenshot 2024-10-13 191633](https://github.com/user-attachments/assets/6b007273-53e1-43cd-80fd-f728cc5cfd90)
