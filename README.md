@@ -13,4 +13,4 @@ Additionally, you will have experience working with AWS services and integrating
 
 Project Architecture
 
-![Screenshot 2024-10-12 193512](https://github.com/user-attachments/assets/1b6d35e7-0862-4c70-b60d-0e974b6494b5)
+![Uploading Screenshot 2024-10-13 191633.png…]()
